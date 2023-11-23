@@ -134,8 +134,3 @@ select
 from orders
 group by year(order_date), market
 order by year
-
--- Number of customers by category
-
-
--- Segment distribution
